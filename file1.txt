@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 gyuyuyt
+=======
+hello 
+gff
+>>>>>>> feature1
+gftrt
+gfyt
