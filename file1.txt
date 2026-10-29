@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-gyuyuyt
-=======
-hello 
-gff
->>>>>>> feature1
-gftrt
-gfyt
+hii
+welcome to our first lab
